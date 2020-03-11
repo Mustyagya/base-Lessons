@@ -1,0 +1,6 @@
+﻿  HM_Lessons15.cpp
+D:\Новая папка (2)\HM_Lessons15\HM_Lessons15\HM_Lessons15.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Новая папка (2)\HM_Lessons15\HM_Lessons15\HM_Lessons15.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Новая папка (2)\HM_Lessons15\HM_Lessons15\HM_Lessons15.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Новая папка (2)\HM_Lessons15\HM_Lessons15\HM_Lessons15.cpp(58,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  HM_Lessons15.vcxproj -> D:\Новая папка (2)\HM_Lessons15\Debug\HM_Lessons15.exe
